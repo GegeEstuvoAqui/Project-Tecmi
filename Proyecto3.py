@@ -2,6 +2,8 @@ print ('---------------------------------------')
 print ('⤜    Inventario de almacenamiento    ⤛')
 print ('---------------------------------------')
 
+#Comentario
+
 usuario = input ('Favor de proprocionar su nombre: ') #Error aqui ¿"opcion no valida"?
 
 print ('Bienvenido: ',usuario)
